@@ -1,4 +1,3 @@
-First day of my Programming and Stats class today,
-got some software installed and some assignments worked on.
-
-SIUE CS Classes will begin next week.
+Studied a lot of Stats today and got my VS Studio downloaded
+for my KC programming course. Going to make a repo for that class
+and for my CS 140 and CS 111 class tonight.
