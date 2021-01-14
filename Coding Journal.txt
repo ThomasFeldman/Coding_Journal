@@ -1,3 +1,1 @@
-Studied a lot of Stats today and got my VS Studio downloaded
-for my KC programming course. Going to make a repo for that class
-and for my CS 140 and CS 111 class tonight.
+Worked on setting up VM today for KC course, and studied some Stats
