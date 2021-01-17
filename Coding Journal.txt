@@ -1,1 +1,4 @@
-Worked on setting up VM today for KC course, and studied some Stats
+Got my Virtual Machine successfully moved and running from my external drive,
+CS 140 & 111 start next week, so I'm excited about that! We're gonna be learning
+C++ in the 140 class, and C# in my KC class so that will be 2 languages that 
+I've never touched before but I can't wait to get into them!
