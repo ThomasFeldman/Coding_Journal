@@ -1,3 +1,3 @@
-SIUE Classes start tomorrow! Going to be a busy day but I'm looking
-forward to it! Ordered Bjarne Stroustrup's C++ Programming book to
-hopefully help me nail C++.
+Forgot to get my GitHub commit in yesterday, but I worked on a lot of hw for my CS classes.
+Pretty much the same today, finished most of my readings except for stats which I'm starting now,
+then the CS 140 lab.
