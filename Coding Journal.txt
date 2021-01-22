@@ -1,3 +1,4 @@
-Forgot to get my GitHub commit in yesterday, but I worked on a lot of hw for my CS classes.
-Pretty much the same today, finished most of my readings except for stats which I'm starting now,
-then the CS 140 lab.
+Got my Stats hw done today, and the CS 140 lab done.
+Taking 2 quizzes tomorrow in CS 111 and 140, should be pretty easy.
+I'm liking C++ so far, a lot better than C# but I might just be too
+used to Java.
