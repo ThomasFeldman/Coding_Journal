@@ -1,4 +1,5 @@
-Got my Stats hw done today, and the CS 140 lab done.
-Taking 2 quizzes tomorrow in CS 111 and 140, should be pretty easy.
-I'm liking C++ so far, a lot better than C# but I might just be too
-used to Java.
+Took two quizzes today, went well. Did some CS 155 worksheets about the
+Visual Studio IDE. Going to do some readings later tonight.
+
+Found a book online that was used in SIUE's Discrete Math class so I can read that
+in my spare time! That should be the last math I need for the BA but I may take a calc course this summer.
