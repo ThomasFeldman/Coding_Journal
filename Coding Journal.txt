@@ -1,4 +1,2 @@
-Finished CS 140 chapter 4 quiz
-and CS 111 quiz, got most of the 140 lab
-done and started working on CITP 155 lab.
-Should have those done by tomorrow.
+Finished Lab for cs 140, almost done with CITP 155 stuff
+going to finish tomorrow.
